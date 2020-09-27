@@ -1,6 +1,6 @@
 # Hackintosh-Acer-A315-53G-52CQ
  
- Tested on Big Sur beta 7
+ Tested on Big Sur beta 8
  
  ![Screenshot](https://i.imgur.com/8JHx18U.png "Screenshot")
  
